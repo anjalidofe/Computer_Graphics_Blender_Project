@@ -3,3 +3,4 @@
 ### Animation video built using Blender
 ### Intermediate rendered video of project contains pirate ship and music in bg
 ### Final rendered video of project contains a spooky scene in which the pirate ship is sailing in the sky being followed by a ghost and spooky sound
+## Done By: Anjali Dofe (MIS: 111903137) of Div 2, TY Comp, COEP
